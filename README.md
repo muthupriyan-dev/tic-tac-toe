@@ -28,7 +28,7 @@ https://muthupriyan-dev.github.io/tic-tac-toe/tic-tac-toe.html
 
 ## 📷 Screenshot
 
-![Tic Tac Toe Screenshot](screenshot.png)
+![Tic Tac Toe Screenshot](Screenshot.png)
 
 ## 🎯 Learning Goals
 This project was created to practice:
