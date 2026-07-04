@@ -24,7 +24,7 @@ https://muthupriyan-dev.github.io/tic-tac-toe/tic-tac-toe.html
 2. Player X starts the game.
 3. Players take turns selecting cells.
 4. The game announces the winner or a draw.
-5. Use the restart button to play again..
+5. Use the restart button to play again.
 
 ## 📷 Screenshot
 
