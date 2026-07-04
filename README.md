@@ -1,4 +1,4 @@
-# 🎮 Tic Tac Toe
+# 🎮 Tic Tac Toe.
 
 ## 📌 Overview
 Tic Tac Toe is a simple and interactive two-player game built using HTML, CSS, and JavaScript. Players take turns marking X and O on a 3×3 grid, and the game automatically detects the winner or a draw.
